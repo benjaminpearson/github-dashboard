@@ -1,8 +1,8 @@
 {
-  "name": "skeleton-node",
+  "name": "github-dashboard",
   "author": "Benjamin Pearson",
   "version": "0.0.0",
-  "description": "Node project skeleton",
+  "description": "Simple dashboard that gives an overview of Github repo activity.",
   "license": "Unlicense",
   "main": "src/index.js",
   "engines": {
@@ -24,14 +24,6 @@
   },
   "pre-commit": "pre-commit",
   "jest": {
-    "coverageThreshold": {
-      "global": {
-        "branches": 100,
-        "functions": 100,
-        "lines": 100,
-        "statements": 100
-      }
-    },
     "collectCoverageFrom": [
       "src/**/*.{js}"
     ]
@@ -61,10 +53,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjaminpearson/skeleton-node.git"
+    "url": "git+https://github.com/benjaminpearson/github-dashboard.git"
   },
   "bugs": {
-    "url": "https://github.com/benjaminpearson/skeleton-node/issues"
+    "url": "https://github.com/benjaminpearson/github-dashboard/issues"
   },
-  "homepage": "https://github.com/benjaminpearson/skeleton-node#readme"
+  "homepage": "https://github.com/benjaminpearson/github-dashboard#readme"
 }
