@@ -29,6 +29,7 @@
     ]
   },
   "devDependencies": {
+    "docdash": "0.4.0",
     "eslint": "3.19.0",
     "eslint-config-airbnb-base": "11.2.0",
     "eslint-plugin-eslint-comments": "1.0.1",
@@ -48,7 +49,6 @@
     "pre-commit": "1.2.2"
   },
   "dependencies": {
-    "docdash": "0.4.0",
     "lodash": "4.17.4"
   },
   "repository": {
