@@ -1,12 +1,11 @@
 {
   "githubAccessToken": "",
-  "repos": [
-    {
-      "name": "benjaminpearson/github-dashboard",
+  "repos": {
+    "benjaminpearson/github-dashboard": {
       "environments": {
         "production": "",
         "staging": ""
       }
     }
-  ]
+  }
 }
